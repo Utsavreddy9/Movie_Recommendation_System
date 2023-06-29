@@ -1,5 +1,5 @@
 # Movie_Recommendation_System
-A movie recommendation system is a technology that suggests movies to users based on their preferences, historical data, and patterns in movie ratings. It utilizes various algorithms and techniques to analyze user behaviour and movie attributes to provide personalized recommendations. Here's an overview of how a movie recommendation system typically works:
+###A movie recommendation system is a technology that suggests movies to users based on their preferences, historical data, and patterns in movie ratings. It utilizes various algorithms and techniques to analyze user behaviour and movie attributes to provide personalized recommendations. Here's an overview of how a movie recommendation system typically works:
 
 Data Collection: The system collects data from users, including their movie ratings, reviews, watch history, and demographic information. Additional data may be gathered from external sources, such as movie metadata, genre information, cast and crew details, and user-generated tags.
 
